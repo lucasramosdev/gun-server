@@ -11,6 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axe": "^13.0.0",
+    "express": "^4.21.2",
     "gun": "^0.2020.1240"
   }
 }
